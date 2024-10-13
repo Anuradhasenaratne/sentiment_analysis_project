@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa; /* Light background color */
+    color: #212529; /* Default text color */
+  }
+  .header {
+    background-color: #343a40; /* Dark header background */
+    color: white; /* White text */
+    padding: 20px 0; /* Vertical padding */
+    border-radius: 0.5rem; /* Rounded corners */
+  }
+  .card {
+    border-radius: 0.5rem; /* Smooth rounded corners */
+  }
+  .badge {
+    background-color: #6c757d; /* Darker badge color */
+  }
+  .alert {
+    background-color: #e9ecef; /* Light alert background */
+    border: none; /* No border for alerts */
+  }
+  .img-container {
+    max-height: 250px; /* Limit image height */
+    overflow: hidden; /* Hide overflow */
+  }
+  .img-fluid {
+    height: auto; /* Maintain aspect ratio */
+    width: 100%; /* Full width */
+  }
